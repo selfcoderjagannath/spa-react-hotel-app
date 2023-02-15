@@ -16,7 +16,7 @@ function App() {
       <BrowserRouter>
             <Navigation />
             <Routes>
-                <Route basename="/react-loungehotel" path="/" exact element={<About />} />
+                <Route path="/" exact element={<About />} />
                 <Route path="/services" exact element={<Services />} />
                 <Route path="/booking" exact element={<Booking />} />
                 <Route path="/rooms" exact element={<Rooms />} />
