@@ -14,7 +14,7 @@ function App() {
   return (
     <div className="App">
       <BrowserRouter>
-            <Navigation />
+            <Navigation basename="/spa-react-hotel-app" />
             <Routes>
                 <Route path="/" exact element={<About />} />
                 <Route path="/services" exact element={<Services />} />
