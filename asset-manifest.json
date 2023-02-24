@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/spa-react-hotel-app/static/css/main.d6932b70.css",
-    "main.js": "/spa-react-hotel-app/static/js/main.647353cb.js",
+    "main.js": "/spa-react-hotel-app/static/js/main.e4fb6087.js",
     "static/js/787.907074f1.chunk.js": "/spa-react-hotel-app/static/js/787.907074f1.chunk.js",
     "static/media/img4.jpg": "/spa-react-hotel-app/static/media/img4.30667007b5b5fa61bdfe.jpg",
     "static/media/img1.jpg": "/spa-react-hotel-app/static/media/img1.df2e7ec4e4978de4edd2.jpg",
@@ -10,11 +10,11 @@
     "static/media/page.jpg": "/spa-react-hotel-app/static/media/page.c5c2525301ddc2973464.jpg",
     "index.html": "/spa-react-hotel-app/index.html",
     "main.d6932b70.css.map": "/spa-react-hotel-app/static/css/main.d6932b70.css.map",
-    "main.647353cb.js.map": "/spa-react-hotel-app/static/js/main.647353cb.js.map",
+    "main.e4fb6087.js.map": "/spa-react-hotel-app/static/js/main.e4fb6087.js.map",
     "787.907074f1.chunk.js.map": "/spa-react-hotel-app/static/js/787.907074f1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d6932b70.css",
-    "static/js/main.647353cb.js"
+    "static/js/main.e4fb6087.js"
   ]
 }
