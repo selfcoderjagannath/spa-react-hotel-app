@@ -9,6 +9,7 @@ import Rooms from './components/Rooms';
 import Locations from './components/Locations';
 import Navigation from './components/Navigation'
 import Footer from './components/Footer';
+import ContactForm from './components/ContactForm';
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
                 <Route path="/booking" exact element={<Booking />} />
                 <Route path="/rooms" exact element={<Rooms />} />
                 <Route path="/locations" exact element={<Locations />} />
+                <Route path="/contactform" exact element={<ContactForm />} />
             </Routes>
             <Footer />
         </BrowserRouter>

@@ -32,7 +32,8 @@ const Booking = () => {
                 <p className='text-secondary'>Beds</p>
                 <p className='text-secondary'>4</p>
               </div>
-              <button className="btn btn-dark my-2">Book Room</button>
+              {/* <button className="btn btn-dark my-2">Book Room</button> */}
+              <Link className='btn btn-dark my-2' to="/contactform">Book Room</Link>
             </div>
             <div className="col-md-5 m-auto text-start border-start">
             <img src={img3} className="d-block w-100 h-20" alt="logo3" />
@@ -46,7 +47,8 @@ const Booking = () => {
                 <p className='text-secondary'>Beds</p>
                 <p className='text-secondary'>4</p>
               </div>
-              <button className="btn btn-dark my-2">Book Room</button>
+              {/* <button className="btn btn-dark my-2">Book Room</button> */}
+              <Link className='btn btn-dark my-2' to="/contactform">Book Room</Link>
             </div>
           </div>
         </div>
