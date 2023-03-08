@@ -8,7 +8,8 @@ const ContactForm = () => {
         password: '',
         address: '',
         city: '',
-        state: '',
+        state1: '',
+        state2: '',
         zip: '',
         editItem: false
     })
@@ -60,7 +61,7 @@ const ContactForm = () => {
     // }
 
     return (
-        <div className="container-fluid bg-dark text-light">
+        <div className="container bg-dark text-light">
             <div className="row">
                 <div className="col-md-8 col-sm-12 text-start">
                     <h3 className='text-secondary text-start my-4'>Book a Room</h3>
